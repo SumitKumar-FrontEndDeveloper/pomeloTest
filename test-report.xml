@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/sumit/Desktop/pomelo/src/reducers/article.reducer.spec.js">
+    <testCase name="Cutomer Profile OTP reducers should return the initial state" duration="5"/>
+    <testCase name="Cutomer Profile OTP reducers should handle CUSTOMER_DETAILS_FETCH_REQUEST" duration="1"/>
+    <testCase name="Cutomer Profile OTP reducers should handle ARTICLE_LIST_FETCH_SUCCESS" duration="1"/>
+    <testCase name="Cutomer Profile OTP reducers should handle ARTICLE_LIST_FETCH_FAILURE" duration="1"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomelo/src/actions/articles/action-articles.spec.js">
+    <testCase name="test all action in should create an action to add a todo" duration="5"/>
+    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="4"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomelo/src/components/article/article.spec.js">
+    <testCase name="Article List test test if there is access token" duration="88"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomelo/src/components/article-detail/article.detail.spec.js">
+    <testCase name="Article List test test if there is access token" duration="151"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomelo/src/components/header/header.spec.js">
+    <testCase name="Article List test test if there is change in input field" duration="58"/>
+    <testCase name="Article List test test click on the button" duration="4"/>
+  </file>
+</testExecutions>

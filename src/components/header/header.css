@@ -1,0 +1,23 @@
+.headerContainer {
+  display: flex;
+  border: 1px solid #e2e1e1;
+  background: #d8d8d8;
+  height: 50px;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 4px;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.inputContainer {
+  display: flex;
+}
+.cross {
+  position: absolute;
+  right: 107px;
+  top: 5px;
+  cursor: pointer;
+}
