@@ -1,24 +1,27 @@
-# Pomelo Test : Implementation of newyork times search api.
+# Pomelo Test
 
-This is the test asignment of pomelo fashion. 
-Technoly Used: React Js, Redux , Jest and enzyme for unit test.
+Integration newyork times search api.
 
-### `What i did in the following assignment`
+# Technology 
+
+ React Js, Redux , Jest and enzyme for unit test.
+
+### `Project task`
 
 1. Setup project in react js.
-2. Create UI of news listing responsive page.
-3. Integration of newyork times search api by using redux store.
-4. Implementation of routes.
+2. Create UI of news listing page which is responsive.
+3. Integration of newyork times search api by using axios.
+4. Setup reusable redux store. 
+5. Setup unit test configuration by using jest and enzyme
+5. Implementation of routes.
 5. Create UI of news details page.
-6. Search feature
-7. Write unit test for all functional files
+6. Search feature.
+7. Write unit test for all functional files.
 
-## Step to configure project
 
-1. Download project 
-2. Go to project folder pomeloTest
-3. run yarn install command to install the dependency.
+### `yarn install`
 
+Run yarn install command to install the dependency.
 
 ### `yarn start`
 
